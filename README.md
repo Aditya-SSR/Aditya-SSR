@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Struct<br><br>🌱 I’m currently learning Express.js, Node.js<br><br>📫 How to reach me qubecraftmcpe@gmail.com
+🔭 Full Stack Web Developer<br><br>🌱 MERN Stack📫 How to reach me qubecraftmcpe@gmail.com
 
 
 ## 🌐 Socials:
