@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full Stack Web Developer<br><br>🌱 MERN Stack📫 How to reach me qubecraftmcpe@gmail.com
+🔭 Full Stack Web Developer<br><br>🌱 MERN Stack<br><br>📫 How to reach me qubecraftmcpe@gmail.com
 
 
 ## 🌐 Socials:
