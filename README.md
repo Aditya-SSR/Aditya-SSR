@@ -1,7 +1,7 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:1f6feb&text=Aditya%20Sunkaranam&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Frontend%20%26%20Product%20Design&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:0d1117,100:1f6feb&text=Aditya%20Sunkaranam&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+story-first+web+experiences+%E2%9C%A8;MERN+%E2%86%92+Next.js+%E2%86%92+Three.js+%F0%9F%8C%90;Frontend+%2B+product+design+is+my+happy+place+%F0%9F%8E%A8;Turning+ideas+into+coherent+worlds+%F0%9F%9A%80" alt="Typing SVG" />
@@ -70,20 +70,6 @@ const aditya = {
 
 <br/>
 
-<!-- ========== PROJECTS ========== -->
-## 🚀 Things I'm Building
-
-| Project | What it is | Stack |
-|---|---|---|
-| 💬 **Echo** | Fullstack messaging & broadcasting platform | MERN, Socket.io |
-| 🔄 **V-Sync** | Companion app for VTOP — plus its monochrome landing page | Flutter, Rust, Next.js |
-| 🏛️ **Struct** | Brutalist / architectural design-focused site | Next.js, TypeScript, Three.js |
-| 📱 **VIT-AP App** | Clean monochrome student app — timetables, deadlines, mess menus | React Native, Expo |
-
-<!-- Tip: link each project name to its repo, e.g. [**Echo**](https://github.com/Aditya-SSR/echo) -->
-
-<br/>
-
 <!-- ========== STATS ========== -->
 ## 📊 GitHub Stats
 
@@ -104,7 +90,7 @@ const aditya = {
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-SSR&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Aditya%27s%20Contribution%20Graph" alt="activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/1f6feb/Aditya-SSR" alt="contribution chart" width="100%" />
 </div>
 
 <br/>
@@ -116,15 +102,6 @@ const aditya = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-SSR/Aditya-SSR/output/github-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/Aditya-SSR/Aditya-SSR/output/github-snake-dark.svg" />
 </picture>
-</div>
-
-<br/>
-
-<!-- ========== TROPHIES ========== -->
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-SSR&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </div>
 
 <br/>
