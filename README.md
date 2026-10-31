@@ -1,7 +1,14 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:0d1117,100:1f6feb&text=LYNX&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full%20Stack%20and%20App%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+<pre>
+██╗  ██╗   ██╗███╗   ██╗██╗  ██╗
+██║  ╚██╗ ██╔╝████╗  ██║╚██╗██╔╝
+██║   ╚████╔╝ ██╔██╗ ██║ ╚███╔╝ 
+██║    ╚██╔╝  ██║╚██╗██║ ██╔██╗ 
+███████╗██║   ██║ ╚████║██╔╝ ██╗
+╚══════╝╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝
+</pre>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer+%F0%9F%92%BB;App+Developer+%F0%9F%93%B1;Aspiring+AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+story-first+products+%E2%9C%A8" alt="Typing SVG" />
