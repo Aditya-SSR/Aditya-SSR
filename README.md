@@ -1,10 +1,22 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:0d1117,100:1f6feb&text=Aditya%20Sunkaranam&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+<!-- ASCII portrait slot: paste the profile-picture ASCII art inside this <pre> -->
+<pre>
+
+</pre>
+
+<pre>
+██╗  ██╗   ██╗███╗   ██╗██╗  ██╗
+██║  ╚██╗ ██╔╝████╗  ██║╚██╗██╔╝
+██║   ╚████╔╝ ██╔██╗ ██║ ╚███╔╝ 
+██║    ╚██╔╝  ██║╚██╗██║ ██╔██╗ 
+███████╗██║   ██║ ╚████║██╔╝ ██╗
+╚══════╝╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝
+</pre>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+story-first+web+experiences+%E2%9C%A8;MERN+%E2%86%92+Next.js+%E2%86%92+Three.js+%F0%9F%8C%90;Frontend+%2B+product+design+is+my+happy+place+%F0%9F%8E%A8;Turning+ideas+into+coherent+worlds+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer+%F0%9F%92%BB;App+Developer+%F0%9F%93%B1;Aspiring+AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+story-first+products+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +34,8 @@
 
 ```ts
 const aditya = {
-  role: "Full Stack Web Developer",
+  role: "Full Stack & App Developer",
+  aspiringTo: "AI / ML Engineer",
   studying: "Integrated M.Tech CSE @ VIT-AP",
   stack: ["MERN", "Next.js", "TypeScript", "Three.js / R3F", "GSAP"],
   loves: ["Frontend", "Product design", "Brand storytelling"],
