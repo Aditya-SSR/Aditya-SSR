@@ -24,7 +24,7 @@
 
 <br/>
 
-<h1> My Portfolio: lynx-portfolio-seven.vercel.app</h1>
+<h1> My Portfolio: <a>lynx-portfolio-seven.vercel.app</a></h1>
 
 <!-- ========== ABOUT ========== -->
 ## 👋 About Me
