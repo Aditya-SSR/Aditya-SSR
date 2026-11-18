@@ -24,7 +24,7 @@
 
 <br/>
 
-<h1> My Portfolio: <a>lynx-portfolio-seven.vercel.app</a></h1>
+<h1>My Portfolio: <a href="https://lynx-portfolio-seven.vercel.app/">LYNX Portfolio</a></h1>
 
 <!-- ========== ABOUT ========== -->
 ## 👋 About Me
